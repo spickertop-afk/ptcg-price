@@ -1,0 +1,10 @@
+search fail S1W 12 HTTP Error 404: Not Found
+search fail S2a 7 HTTP Error 404: Not Found
+search fail SM1+ 2 HTTP Error 404: Not Found
+search fail SM2K 6 HTTP Error 404: Not Found
+search fail SM2+ 2 HTTP Error 404: Not Found
+search fail SM3+ 2 HTTP Error 404: Not Found
+search fail SM4+ 2 HTTP Error 404: Not Found
+search fail SM5+ 2 HTTP Error 404: Not Found
+candidate ids 5136 old cards 3587 skip 2013
+cards 3636 with A 2834 with PSA10 3236 {'http 404': 8, 'kept': 1863, 'not jp card': 33, 'updated': 3395, 'no sales': 181}
